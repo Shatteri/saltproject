@@ -1,4 +1,4 @@
-# Miniproject
+# Miniproject part 1
 The goal is to create a salt state which installs a nginx web-server to the minion.
 
 >The following exercise was done on 2 Virtual machines (Ubuntu server 22.04.2).
